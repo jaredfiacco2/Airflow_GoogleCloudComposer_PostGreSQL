@@ -89,10 +89,10 @@
 
 <img src="images\DataProfiling.gif" alt="Airflow Data Profiling" />
 
-5. Edit the dag(s) so they pull the right data from Postgres and push the right data in the right formats on Google Cloud.
+4. Edit the dag(s) so they pull the right data from Postgres and push the right data in the right formats on Google Cloud.
 
 
-4. In your Google Cloud Storage Instance (created for this airflow instance), upload these dags to the dag folder.
+5. In your Google Cloud Storage Instance (created for this airflow instance), upload these dags to the dag folder.
 
 <img src="images\GoogleCloudStorage.gif" alt="Google Cloud Storage" />
 
@@ -100,7 +100,7 @@
 
 <img src="images\GoogleCloudComposer_Airflow.gif" alt="Airflow" />
 
-6. Check out BigQuery to make sure the CSV data got over (if you ran the postgre_table_to_gcs_to_bq dag)
+7. Check out BigQuery to make sure the CSV data got over (if you ran the postgre_table_to_gcs_to_bq dag)
 
 <img src="images\BigQuery.gif" alt="BigQuery" />
 
