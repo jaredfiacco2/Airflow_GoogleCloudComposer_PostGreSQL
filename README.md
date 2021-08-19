@@ -109,7 +109,6 @@
 
 [Jared Fiacco](https://www.linkedin.com/in/jaredfiacco/) - jaredfiacco2@gmail.com
 
-Project Link: [https://github.com/jaredfiacco2/BugTracker-Public](https://github.com/jaredfiacco2/BugTracker-Public)
 
 
 
