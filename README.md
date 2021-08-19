@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jaredfiacco2/SQLServer_GenerateDagsWithMetadata">
+  <a href="https://github.com/jaredfiacco2/Airflow_GoogleCloudComposer_PostGreSQL">
     <img src="images/airflow_logo.png" alt="Logo" width="345" height="146">
   </a>
 
