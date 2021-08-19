@@ -89,7 +89,7 @@
 
 <img src="images\DataProfiling.gif" alt="Airflow Data Profiling" />
 
-5. Edit the dag(s) so they pull the right data from Postgres and push te right data in the right formats on Google Cloud.
+5. Edit the dag(s) so they pull the right data from Postgres and push the right data in the right formats on Google Cloud.
 
 
 4. In your Google Cloud Storage Instance (created for this airflow instance), upload these dags to the dag folder.
